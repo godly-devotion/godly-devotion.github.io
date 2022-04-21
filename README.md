@@ -1,1 +1,0 @@
-# godly-devotion.github.io
