@@ -2,49 +2,58 @@
   {
     "name": "MEPS Photons",
     "description": "AI-powered asset management system",
+    "uses": "Angular",
     "image": "/assets/images/projects/photons.jpeg"
   },
   {
     "name": "MEPS Greenlight",
     "description": "Centralized translation approval system",
+    "uses": "Angular",
     "image": "/assets/images/projects/greenlight.png"
   },
   {
     "name": "MEPS Analytics",
     "description": "Data analytics platform",
+    "uses": "Angular",
     "image": "/assets/images/projects/analytics.png"
   },
   {
     "name": "NJ Sharing Network",
     "description": "Lab portal for managing organ donations",
+    "uses": "React.js",
     "image": "/assets/images/projects/lab-portal.jpeg"
   },
   {
     "name": "Briones Law Firm",
     "description": "Mobile-friendly website for a law firm",
+    "uses": "SvelteKit",
     "image": "/assets/images/projects/briones.png"
   },
   {
     "name": "Vision2Home",
     "description": "Mobile-friendly website showcasing ADUs",
+    "uses": "SvelteKit",
     "image": "/assets/images/projects/vision2home.jpeg",
     "url": "https://www.vision2home.com/"
   },
   {
     "name": "Mochi Diffusion",
     "description": "Run Stable Diffusion on Mac natively",
+    "uses": "SwiftUI",
     "image": "/assets/images/projects/mochi-diffusion.png",
     "url": "https://github.com/MochiDiffusion/MochiDiffusion"
   },
   {
     "name": "Front Row",
     "description": "Play HDR videos & spatial audio on Mac natively",
+    "uses": "SwiftUI",
     "image": "/assets/images/projects/front-row.png",
     "url": "https://github.com/godly-devotion/FrontRow"
   },
   {
     "name": "Charge Limiter",
     "description": "macOS app to set battery charge limit for Intel MacBooks",
+    "uses": "AppleScript",
     "image": "/assets/images/projects/charge-limiter.png",
     "url": "https://github.com/godly-devotion/charge-limiter"
   }
