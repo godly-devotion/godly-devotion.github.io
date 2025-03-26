@@ -1,0 +1,23 @@
+[
+  {
+    "dates": "May 2017 · Present",
+    "role": "Senior Software Engineer",
+    "company": "Watchtower, Inc. Warwick, NY",
+    "description": "Developed and maintained complex web applications that meet stakeholder requirements and customer needs",
+    "logo": "/assets/images/experiences/jw.svg"
+  },
+  {
+    "dates": "January 2012 · Present",
+    "role": "Front-End Engineer",
+    "company": "Freelance",
+    "description": "Designed and deployed custom web-based solution for clients across various industries",
+    "logo": "/assets/images/experiences/github.svg"
+  },
+  {
+    "dates": "August 2015 · August 2017",
+    "role": "Systems Engineer",
+    "company": "Edu Tek Ltd.",
+    "description": "Responsible for help maintaining school district of Ardsley, NY with PCs, Macs, Chromebooks, iPads, and Windows Servers (physical and virtual)",
+    "logo": "/assets/images/experiences/edutekltd.svg"
+  }
+]
