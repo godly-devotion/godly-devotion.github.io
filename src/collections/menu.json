@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Home",
+    "url": "/"
+  },
+  {
+    "name": "Projects",
+    "url": "/projects"
+  },
+  {
+    "name": "GitHub",
+    "url": "https://github.com/itsjoshpark"
+  },
+  {
+    "name": "LinkedIn",
+    "url": "https://www.linkedin.com/in/joshua-park-profile/"
+  },
+  {
+    "name": "About",
+    "url": "/about"
+  }
+]
